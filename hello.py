@@ -1,3 +1,4 @@
 print "hello world"
-username = string(input("What is your name?"))
+username = raw_input("What is your name?")
 print "Hello" + username
+#end
