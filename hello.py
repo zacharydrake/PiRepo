@@ -1,3 +1,3 @@
 print "hello world"
-username = input(("What is your name?"))
+username = string(input("What is your name?"))
 print "Hello" + username
